@@ -31,8 +31,8 @@
 
 ## 소스 코드
 
-- 프론트엔드: [GitHub 링크 삽입 예정]
-- 백엔드: [GitHub 링크 삽입 예정]
+- 프론트엔드:  https://github.com/min-38/BandHub_FE
+- 백엔드:     https://github.com/min-38/BandHub_BE
 
 ---
 
