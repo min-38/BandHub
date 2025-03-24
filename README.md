@@ -29,13 +29,6 @@
 
 ---
 
-## 소스 코드
-
-- 프론트엔드:  https://github.com/min-38/BandHub_FE
-- 백엔드:     https://github.com/min-38/BandHub_BE
-
----
-
 ## 배포 링크
 
 - 웹사이트 링크: [배포 링크 삽입 예정]
